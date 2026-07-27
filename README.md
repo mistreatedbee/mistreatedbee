@@ -28,12 +28,6 @@ Currently exploring the future of software engineering through artificial intell
 <img src="https://skillicons.dev/icons?i=javascript,typescript,python,php,java" />
 </p>
 
-- JavaScript
-- TypeScript
-- Python
-- PHP
-- Java
-
 ---
 
 ## 🌐 Frontend Development
@@ -41,16 +35,6 @@ Currently exploring the future of software engineering through artificial intell
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,vite,tailwind,html,css" />
 </p>
-
-- React.js
-- Next.js
-- Angular
-- Vue.js
-- React Router
-- Vite
-- Tailwind CSS
-- HTML5
-- CSS3
 
 ---
 
@@ -60,14 +44,6 @@ Currently exploring the future of software engineering through artificial intell
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
 </p>
 
-- Node.js
-- Express.js
-- REST APIs
-- Backend Architecture
-- Authentication Systems
-- API Integrations
-- Server-side Development
-
 ---
 
 ## 📱 Mobile Development
@@ -76,11 +52,6 @@ Currently exploring the future of software engineering through artificial intell
 <img src="https://skillicons.dev/icons?i=reactnative,flutter,expo" />
 </p>
 
-- React Native
-- Expo
-- Flutter
-- Cross-platform Mobile Development
-- Mobile UI/UX Development
 
 ---
 
@@ -90,14 +61,6 @@ Currently exploring the future of software engineering through artificial intell
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,supabase,sqlite" />
 </p>
 
-- MongoDB
-- PostgreSQL
-- MySQL
-- Supabase
-- Firebase
-- SQLite
-- Database Design
-- Data Modelling
 
 ---
 
@@ -107,14 +70,6 @@ Currently exploring the future of software engineering through artificial intell
 <img src="https://skillicons.dev/icons?i=aws,docker,vercel,netlify" />
 </p>
 
-- AWS
-- Docker
-- Supabase Cloud
-- Vercel
-- Netlify
-- Render
-- Railway
-- Cloud-based Application Deployment
 
 ---
 
@@ -124,14 +79,6 @@ Currently exploring the future of software engineering through artificial intell
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
 </p>
 
-- Git
-- GitHub
-- VS Code
-- Figma
-- Postman
-- npm
-- pnpm
-- CI/CD Workflows
 
 ---
 
