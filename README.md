@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Developer;AI+%26+Cloud+Enthusiast;Building+Digital+Solutions" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Developer;AI+%26+Cloud+Enthusiast;Building+Scalable+Solutions" />
 
 </div>
 
@@ -10,89 +10,154 @@
 
 ## 👨🏽‍💻 About Me
 
-I'm a Software Engineer focused on building scalable, reliable, and user-focused digital solutions.
+I'm a Software Engineer passionate about building scalable, reliable, and user-focused digital solutions.
 
-I specialise in designing and developing modern applications across:
+I specialise in full-stack development, mobile applications, cloud technologies, and AI-powered systems.
 
-- 🌐 Full-stack web development
-- 📱 Mobile application development
-- 🤖 Artificial Intelligence solutions
-- ☁️ Cloud-based systems
-- 🏢 Enterprise software platforms
+My focus is on creating modern software solutions that combine great user experiences with strong engineering foundations — from frontend interfaces and backend architectures to databases, APIs, and deployment infrastructure.
 
-I enjoy solving complex problems through clean architecture, thoughtful engineering, and innovative technology.
-
-Currently focused on building intelligent systems, scalable platforms, and exploring the intersection between software engineering and AI.
+Currently exploring the future of software engineering through artificial intelligence, automation, cloud-native systems, and scalable application architecture.
 
 ---
 
-# 🚀 What I Do
+# 🛠️ Tech Stack
 
-💻 Build production-ready web applications
+## 💻 Programming Languages
 
-📱 Create cross-platform mobile experiences
+<p>
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python,php,java" />
+</p>
 
-🤖 Develop AI-powered solutions and automation tools
-
-☁️ Design cloud-native architectures
-
-🗄️ Engineer scalable backend systems and databases
-
-⚙️ Transform ideas into complete digital products
+- JavaScript
+- TypeScript
+- Python
+- PHP
+- Java
 
 ---
 
-# 🛠️ Technology Stack
-
-## Languages
+## 🌐 Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=javascript,typescript,python,php" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,vite,tailwind,html,css" />
 </p>
 
-## Frontend
+- React.js
+- Next.js
+- Angular
+- Vue.js
+- React Router
+- Vite
+- Tailwind CSS
+- HTML5
+- CSS3
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,tailwind,html,css" />
-</p>
+---
 
-## Backend
+## ⚙️ Backend Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
 </p>
 
-## Databases & Cloud
+- Node.js
+- Express.js
+- REST APIs
+- Backend Architecture
+- Authentication Systems
+- API Integrations
+- Server-side Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,firebase,aws,docker" />
-</p>
+---
 
-## Mobile Development
+## 📱 Mobile Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=reactnative,flutter,expo" />
 </p>
 
-## Tools
+- React Native
+- Expo
+- Flutter
+- Cross-platform Mobile Development
+- Mobile UI/UX Development
+
+---
+
+## 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,supabase,sqlite" />
 </p>
+
+- MongoDB
+- PostgreSQL
+- MySQL
+- Supabase
+- Firebase
+- SQLite
+- Database Design
+- Data Modelling
+
+---
+
+## ☁️ Cloud & Deployment
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,vercel,netlify" />
+</p>
+
+- AWS
+- Docker
+- Supabase Cloud
+- Vercel
+- Netlify
+- Render
+- Railway
+- Cloud-based Application Deployment
+
+---
+
+## 🔧 Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+</p>
+
+- Git
+- GitHub
+- VS Code
+- Figma
+- Postman
+- npm
+- pnpm
+- CI/CD Workflows
+
+---
+
+## 🤖 AI & Emerging Technologies
+
+- Artificial Intelligence Integration
+- AI-powered Applications
+- AI Automation
+- Large Language Model (LLM) Integration
+- Intelligent Software Systems
+- AI Developer Tools
 
 ---
 
 # 🧠 Currently Exploring
 
 - Advanced System Design
-- Artificial Intelligence Engineering
+- AI Engineering
 - Cloud Architecture
-- DevOps & Deployment Strategies
-- Scalable Backend Infrastructure
+- DevOps & Infrastructure
+- Scalable Backend Systems
+- Software Architecture Patterns
 
 ---
 
-# 📈 GitHub Statistics
+# 📊 GitHub Statistics
 
 <div align="center">
 
