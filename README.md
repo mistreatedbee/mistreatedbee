@@ -2,9 +2,7 @@
 
 <div align="center">
 
-## 🚀 Software Engineer | Full-Stack Developer | AI Builder
-
-Building scalable applications, intelligent systems, and digital products that solve real-world problems.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Developer;AI+%26+Cloud+Enthusiast;Building+Digital+Solutions" />
 
 </div>
 
@@ -12,55 +10,71 @@ Building scalable applications, intelligent systems, and digital products that s
 
 ## 👨🏽‍💻 About Me
 
-I'm a Software Engineer passionate about building modern software solutions across web, mobile, cloud, and artificial intelligence.
+I'm a Software Engineer focused on building scalable, reliable, and user-focused digital solutions.
 
-My work focuses on creating:
+I specialise in designing and developing modern applications across:
 
-- 🚀 Full-stack SaaS platforms
-- 📱 Mobile applications
-- 🤖 AI-powered systems
-- ☁️ Cloud-based architectures
-- 🏢 Enterprise management platforms
+- 🌐 Full-stack web development
+- 📱 Mobile application development
+- 🤖 Artificial Intelligence solutions
+- ☁️ Cloud-based systems
+- 🏢 Enterprise software platforms
 
-I enjoy taking ideas from concept → architecture → development → deployment.
+I enjoy solving complex problems through clean architecture, thoughtful engineering, and innovative technology.
 
-Currently exploring the future of software through AI, automation, scalable backend systems, and intelligent platforms.
+Currently focused on building intelligent systems, scalable platforms, and exploring the intersection between software engineering and AI.
 
 ---
 
-# 🛠️ Tech Stack
+# 🚀 What I Do
 
-### Languages
+💻 Build production-ready web applications
+
+📱 Create cross-platform mobile experiences
+
+🤖 Develop AI-powered solutions and automation tools
+
+☁️ Design cloud-native architectures
+
+🗄️ Engineer scalable backend systems and databases
+
+⚙️ Transform ideas into complete digital products
+
+---
+
+# 🛠️ Technology Stack
+
+## Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=javascript,typescript,python,php" />
 </p>
 
-### Frontend Development
+## Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,tailwind,html,css" />
 </p>
 
-### Backend Development
+## Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
 </p>
 
-### Databases & Cloud
+## Databases & Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,firebase,docker,aws" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,firebase,aws,docker" />
 </p>
 
-### Mobile
+## Mobile Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=reactnative,flutter,expo" />
 </p>
 
-### Tools
+## Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
@@ -68,84 +82,21 @@ Currently exploring the future of software through AI, automation, scalable back
 
 ---
 
-# 🚀 Featured Projects
+# 🧠 Currently Exploring
 
-## 🛡️ SafeCloud Africa
-
-Enterprise safety management platform helping organisations manage:
-
-- Safety compliance
-- Inspections
-- Audits
-- Incidents
-- HR processes
-- Document management
-- Reporting
-- AI assistance
-
-**Stack:** React • Node.js • Supabase • AI
+- Advanced System Design
+- Artificial Intelligence Engineering
+- Cloud Architecture
+- DevOps & Deployment Strategies
+- Scalable Backend Infrastructure
 
 ---
 
-## 🤖 OpsHub AI
-
-An AI-powered engineering intelligence platform designed to help teams:
-
-- Understand software systems
-- Search organisational knowledge
-- Improve developer productivity
-- Automate engineering workflows
-
-**Stack:** AI • Backend Systems • Knowledge Intelligence
-
----
-
-## ✝️ Christian Leadership Movement Platform
-
-A complete digital ecosystem featuring:
-
-- Public website
-- Member portal
-- Admin dashboard
-- Bible school management
-- Events
-- Payments
-- Donations
-
-**Stack:** React • Node.js • Supabase
-
----
-
-## 📱 Mobile Applications
-
-Building mobile experiences including:
-
-- Marketplaces
-- Healthcare solutions
-- Community platforms
-- Business applications
-
-**Stack:** React Native • Expo • Firebase
-
----
-
-# 🔥 Currently Building
-
-🚀 Enterprise SaaS platforms
-
-🤖 AI-powered developer tools
-
-☁️ Cloud-native applications
-
-📱 Cross-platform mobile solutions
-
----
-
-# 📊 GitHub Analytics
+# 📈 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mistreatedbee&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Mistreatedbee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mistreatedbee&theme=tokyonight&hide_border=true" />
 
@@ -153,19 +104,9 @@ Building mobile experiences including:
 
 ---
 
-# 🧠 Currently Learning
+# 🌱 Engineering Philosophy
 
-- Advanced System Design
-- AI Engineering
-- Cloud Architecture
-- DevOps
-- Scalable Backend Development
-
----
-
-# 💭 Developer Philosophy
-
-> Building software is not only about writing code — it's about creating solutions that improve people's lives.
+> "Great software is built by understanding problems deeply, designing thoughtfully, and continuously improving."
 
 ---
 
@@ -173,6 +114,20 @@ Building mobile experiences including:
 
 <div align="center">
 
-💻 GitHub: [@Mistreatedbee](https://github.com/Mistreatedbee)
+<a href="https://github.com/Mistreatedbee">
+<img src="https://img.shields.io/badge/GitHub-Mistreatedbee-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-Ashley%20Mashigo-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ Building the future, one line of code at a time.
 
 </div>
